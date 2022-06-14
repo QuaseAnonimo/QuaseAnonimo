@@ -1,10 +1,10 @@
-- 👋 Hi, Welcome to my profile
--  My name is Kyo, 24y, living in Dublin/Ireland
+#  Hi, Welcome to my profile
+##  My name is Kyo, 28y, living in Dublin/Ireland 🌍
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON.
+## 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON.
 
  
-- email: Yukiohideshima.h@icloud.com
+## email: Yukiohideshima.h@icloud.com
 
 <!---
 QuaseAnonimo/QuaseAnonimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
