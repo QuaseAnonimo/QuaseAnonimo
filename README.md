@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON.
 
-
-- 📫 How to reach me 
+ 
 - email: Yukiohideshima.h@icloud.com
 
 <!---
